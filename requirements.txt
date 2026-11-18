@@ -2,3 +2,4 @@ requests
 mcp
 anthropic
 fpdf
+bs4
